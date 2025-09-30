@@ -1,0 +1,12 @@
+fastapi==0.117.1
+uvicorn[standard]==0.36.0
+orjson==3.11.3
+transformers==4.56.0
+torch==2.2.0
+httpx==0.28.1
+requests==2.32.5
+python-multipart==0.0.20
+pydub==0.25.1
+python-dotenv==1.1.1
+rich==14.1.0
+filelock==3.19.1
